@@ -1,0 +1,22 @@
+
+#0.0 Welcome!
+
+firebase 코스 = Nwitter(트위터) 클론 기능
+- 이메일, 비밀번호(+구글, 깃헙)를 통한 인증
+- 회원가입, 로그인
+- 수정 및 삭제에 대한 실시간 처리 (realtime)
+- 트윗 및 파일 업로드
+
+*백엔드 코드 없이 진행
+
+
+#0.1 Requirements
+
+강의 추천
+1. [멤버십] 초보를 위한 React JS
+2. 실전형 리액트 Hooks 10개
+
+배울 것
+- HTML, CSS, React JS 뿐만 아니라
+- React Hooks를 사용하여,
+React 컴포넌트를 만드는 새로운 방법과 state를 관리하는 방법
